@@ -1,0 +1,12 @@
+{
+	"schemaVersion": 1,
+	"id": "fakeplayer-gametest",
+	"version": "1.0.0",
+	"name": "FakePlayer GameTest",
+	"environment": "client",
+	"entrypoints": {
+		"fabric-client-gametest": [
+			"khoa.fakeplayer.gametest.FakePlayerClientGameTest"
+		]
+	}
+}
